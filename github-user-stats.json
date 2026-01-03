@@ -9,69 +9,69 @@
   "twitterUsername": "devil_2708",
   "websiteUrl": null,
   "createdAt": "2020-08-18T09:08:50Z",
-  "repoViews": 781,
-  "linesOfCodeChanged": 370361,
-  "linesAdded": 250720,
-  "linesDeleted": 119641,
-  "commitCount": 259,
-  "totalCommits": 335,
+  "repoViews": 1033,
+  "linesOfCodeChanged": 380846,
+  "linesAdded": 260948,
+  "linesDeleted": 119898,
+  "commitCount": 281,
+  "totalCommits": 339,
   "totalPullRequests": 16,
   "totalPullRequestReviews": 0,
-  "codeByteTotal": 1973900,
+  "codeByteTotal": 4961033,
   "topLanguages": [
     {
       "languageName": "JavaScript",
       "color": "#f1e05a",
-      "value": 1743179,
-      "percentage": 88.31
+      "value": 4387058,
+      "percentage": 88.43
+    },
+    {
+      "languageName": "TypeScript",
+      "color": "#3178c6",
+      "value": 366943,
+      "percentage": 7.4
     },
     {
       "languageName": "HTML",
       "color": "#e34c26",
-      "value": 55601,
-      "percentage": 2.82
+      "value": 56881,
+      "percentage": 1.15
     },
     {
       "languageName": "CSS",
       "color": "#663399",
-      "value": 51190,
-      "percentage": 2.59
+      "value": 51296,
+      "percentage": 1.03
     },
     {
       "languageName": "Jupyter Notebook",
       "color": "#DA5B0B",
       "value": 43315,
-      "percentage": 2.19
-    },
-    {
-      "languageName": "TypeScript",
-      "color": "#3178c6",
-      "value": 25075,
-      "percentage": 1.27
+      "percentage": 0.87
     },
     {
       "languageName": "PHP",
       "color": "#4F5D95",
       "value": 24144,
-      "percentage": 1.22
+      "percentage": 0.49
     },
     {
       "languageName": "Hack",
       "color": "#878787",
       "value": 17056,
-      "percentage": 0.86
+      "percentage": 0.34
     },
     {
       "languageName": "Kotlin",
       "color": "#A97BFF",
       "value": 10192,
-      "percentage": 0.52
+      "percentage": 0.21
     },
     {
       "languageName": "SCSS",
       "color": "#c6538c",
       "value": 4148,
-      "percentage": 0.21
+      "percentage": 0.08
     }
   ],
   "forkCount": 17,
@@ -82,14 +82,14 @@
   "repositoriesContributedTo": 0,
   "discussionsStarted": 0,
   "discussionsAnswered": 0,
-  "totalContributions": 395,
+  "totalContributions": 400,
   "contributionStats": {
     "longestStreak": 3,
-    "currentStreak": 1,
+    "currentStreak": 2,
     "mostActiveDay": "Friday",
     "averagePerDay": 0.2,
-    "averagePerWeek": 1.4,
-    "averagePerMonth": 6.02,
+    "averagePerWeek": 1.42,
+    "averagePerMonth": 6.09,
     "monthlyBreakdown": [
       {
         "month": "2020-08",
@@ -353,54 +353,60 @@
       },
       {
         "month": "2026-01",
-        "contributions": 7
+        "contributions": 12
       }
     ]
   },
   "repoStats": {
-    "totalRepos": 20,
-    "publicRepos": 16,
+    "totalRepos": 21,
+    "publicRepos": 17,
     "privateRepos": 4,
     "archivedRepos": 0,
-    "forkedRepos": 0,
+    "forkedRepos": 1,
     "originalRepos": 20,
-    "activeRepos": 3,
+    "activeRepos": 4,
     "reposWithStars": 3,
-    "reposCreatedThisYear": 1,
-    "averageStarsPerRepo": 3.35
+    "reposCreatedThisYear": 2,
+    "averageStarsPerRepo": 3.19
   },
   "computedStats": {
-    "totalRepos": 20,
-    "publicRepos": 16,
+    "totalRepos": 21,
+    "publicRepos": 17,
     "privateRepos": 4,
     "archivedRepos": 0,
-    "forkedRepos": 0,
+    "forkedRepos": 1,
     "originalRepos": 20,
-    "activeRepos": 3,
+    "activeRepos": 4,
     "reposWithStars": 3,
-    "reposCreatedThisYear": 1,
-    "averageStarsPerRepo": 3.35,
+    "reposCreatedThisYear": 2,
+    "averageStarsPerRepo": 3.19,
     "languageCount": 9,
     "primaryLanguage": "JavaScript",
-    "primaryLanguageThisYear": "TypeScript",
+    "primaryLanguageThisYear": "JavaScript",
     "topLanguagesThisYear": [
-      {
-        "languageName": "TypeScript",
-        "color": "#3178c6",
-        "value": 12659,
-        "percentage": 61.11
-      },
       {
         "languageName": "JavaScript",
         "color": "#f1e05a",
-        "value": 7996,
-        "percentage": 38.6
+        "value": 2651875,
+        "percentage": 88.17
+      },
+      {
+        "languageName": "TypeScript",
+        "color": "#3178c6",
+        "value": 354527,
+        "percentage": 11.79
+      },
+      {
+        "languageName": "HTML",
+        "color": "#e34c26",
+        "value": 1280,
+        "percentage": 0.04
       },
       {
         "languageName": "CSS",
         "color": "#663399",
-        "value": 59,
-        "percentage": 0.28
+        "value": 165,
+        "percentage": 0.01
       }
     ],
     "totalTopics": 34,
@@ -522,23 +528,23 @@
       "tensorflow",
       "tools"
     ],
-    "contributionsThisYear": 7,
+    "contributionsThisYear": 12,
     "contributionsLastYear": 81,
-    "yearOverYearGrowth": -91.36,
+    "yearOverYearGrowth": -85.19,
     "mostProductiveMonth": {
       "month": "2021-11",
       "contributions": 60
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 258,
+    "totalCommitContributions": 262,
     "restrictedContributionsCount": 119,
     "totalIssueContributions": 0,
-    "totalRepositoryContributions": 16,
+    "totalRepositoryContributions": 17,
     "totalPullRequestContributions": 0,
     "totalPullRequestReviewContributions": 0,
     "contributionCalendar": {
-      "totalContributions": 395,
+      "totalContributions": 400,
       "weeks": [
         {
           "contributionDays": [
@@ -9555,8 +9561,12 @@
               "date": "2026-01-01"
             },
             {
-              "contributionCount": 7,
+              "contributionCount": 9,
               "date": "2026-01-02"
+            },
+            {
+              "contributionCount": 3,
+              "date": "2026-01-03"
             }
           ]
         }
@@ -9630,6 +9640,19 @@
       "createdAt": "2021-07-20T11:11:30Z"
     },
     {
+      "name": "devilstudio27-github-stats-remotion",
+      "description": "A remotion GitHub action for generating readme profile gifs of your GitHub stats",
+      "stars": 0,
+      "forks": 0,
+      "isArchived": false,
+      "isFork": true,
+      "isPrivate": false,
+      "primaryLanguage": "JavaScript",
+      "topics": [],
+      "updatedAt": "2026-01-03T02:02:16Z",
+      "createdAt": "2026-01-02T18:02:21Z"
+    },
+    {
       "name": "devilstudio27-github-stats",
       "description": null,
       "stars": 0,
@@ -9639,7 +9662,7 @@
       "isPrivate": false,
       "primaryLanguage": null,
       "topics": [],
-      "updatedAt": "2026-01-02T17:36:22Z",
+      "updatedAt": "2026-01-02T17:40:58Z",
       "createdAt": "2026-01-02T17:27:00Z"
     },
     {
@@ -9706,22 +9729,9 @@
       "topics": [],
       "updatedAt": "2026-01-02T16:32:44Z",
       "createdAt": "2024-10-09T11:58:34Z"
-    },
-    {
-      "name": "desktop-tutorial",
-      "description": "GitHub Desktop tutorial repository",
-      "stars": 0,
-      "forks": 0,
-      "isArchived": false,
-      "isFork": false,
-      "isPrivate": true,
-      "primaryLanguage": null,
-      "topics": [],
-      "updatedAt": "2021-12-07T18:20:26Z",
-      "createdAt": "2021-12-07T18:20:08Z"
     }
   ],
   "closedIssues": 0,
   "openIssues": 0,
-  "fetchedAt": 1767375582386
+  "fetchedAt": 1767444172851
 }
