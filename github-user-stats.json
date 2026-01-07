@@ -9,12 +9,12 @@
   "twitterUsername": "devil_2708",
   "websiteUrl": null,
   "createdAt": "2020-08-18T09:08:50Z",
-  "repoViews": 1187,
-  "linesOfCodeChanged": 381086,
-  "linesAdded": 261079,
-  "linesDeleted": 120007,
-  "commitCount": 287,
-  "totalCommits": 342,
+  "repoViews": 1186,
+  "linesOfCodeChanged": 381128,
+  "linesAdded": 261102,
+  "linesDeleted": 120026,
+  "commitCount": 289,
+  "totalCommits": 343,
   "totalPullRequests": 16,
   "totalPullRequestReviews": 0,
   "codeByteTotal": 4961033,
@@ -75,21 +75,21 @@
     }
   ],
   "forkCount": 17,
-  "starCount": 67,
+  "starCount": 68,
   "starsGiven": 117,
   "followers": 9,
   "following": 8,
   "repositoriesContributedTo": 0,
   "discussionsStarted": 0,
   "discussionsAnswered": 0,
-  "totalContributions": 403,
+  "totalContributions": 404,
   "contributionStats": {
-    "longestStreak": 4,
-    "currentStreak": 4,
+    "longestStreak": 5,
+    "currentStreak": 5,
     "mostActiveDay": "Friday",
     "averagePerDay": 0.2,
     "averagePerWeek": 1.43,
-    "averagePerMonth": 6.13,
+    "averagePerMonth": 6.14,
     "monthlyBreakdown": [
       {
         "month": "2020-08",
@@ -353,7 +353,7 @@
       },
       {
         "month": "2026-01",
-        "contributions": 15
+        "contributions": 16
       }
     ]
   },
@@ -364,10 +364,10 @@
     "archivedRepos": 0,
     "forkedRepos": 1,
     "originalRepos": 20,
-    "activeRepos": 4,
+    "activeRepos": 5,
     "reposWithStars": 3,
     "reposCreatedThisYear": 2,
-    "averageStarsPerRepo": 3.19
+    "averageStarsPerRepo": 3.24
   },
   "computedStats": {
     "totalRepos": 21,
@@ -376,10 +376,10 @@
     "archivedRepos": 0,
     "forkedRepos": 1,
     "originalRepos": 20,
-    "activeRepos": 4,
+    "activeRepos": 5,
     "reposWithStars": 3,
     "reposCreatedThisYear": 2,
-    "averageStarsPerRepo": 3.19,
+    "averageStarsPerRepo": 3.24,
     "languageCount": 9,
     "primaryLanguage": "JavaScript",
     "primaryLanguageThisYear": "JavaScript",
@@ -388,13 +388,25 @@
         "languageName": "JavaScript",
         "color": "#f1e05a",
         "value": 2651875,
-        "percentage": 88.17
+        "percentage": 86.62
       },
       {
         "languageName": "TypeScript",
         "color": "#3178c6",
         "value": 354527,
-        "percentage": 11.79
+        "percentage": 11.58
+      },
+      {
+        "languageName": "Jupyter Notebook",
+        "color": "#DA5B0B",
+        "value": 43315,
+        "percentage": 1.41
+      },
+      {
+        "languageName": "Kotlin",
+        "color": "#A97BFF",
+        "value": 10192,
+        "percentage": 0.33
       },
       {
         "languageName": "HTML",
@@ -528,23 +540,23 @@
       "tensorflow",
       "tools"
     ],
-    "contributionsThisYear": 15,
+    "contributionsThisYear": 16,
     "contributionsLastYear": 81,
-    "yearOverYearGrowth": -81.48,
+    "yearOverYearGrowth": -80.25,
     "mostProductiveMonth": {
       "month": "2021-11",
       "contributions": 60
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 265,
+    "totalCommitContributions": 266,
     "restrictedContributionsCount": 119,
     "totalIssueContributions": 0,
     "totalRepositoryContributions": 17,
     "totalPullRequestContributions": 0,
     "totalPullRequestReviewContributions": 0,
     "contributionCalendar": {
-      "totalContributions": 403,
+      "totalContributions": 404,
       "weeks": [
         {
           "contributionDays": [
@@ -9581,8 +9593,12 @@
               "date": "2026-01-05"
             },
             {
-              "contributionCount": 0,
+              "contributionCount": 1,
               "date": "2026-01-06"
+            },
+            {
+              "contributionCount": 0,
+              "date": "2026-01-07"
             }
           ]
         }
@@ -9593,7 +9609,7 @@
     {
       "name": "Plant-Disease-Detection-and-Solution",
       "description": "Plant disease detection and Solution using Image Classification",
-      "stars": 65,
+      "stars": 66,
       "forks": 17,
       "isArchived": false,
       "isFork": false,
@@ -9618,7 +9634,7 @@
         "crop-disease-detection",
         "crop-disease-diagnosis"
       ],
-      "updatedAt": "2025-12-28T13:38:01Z",
+      "updatedAt": "2026-01-06T18:32:22Z",
       "createdAt": "2020-12-26T07:04:30Z"
     },
     {
@@ -9665,7 +9681,7 @@
       "isPrivate": false,
       "primaryLanguage": "JavaScript",
       "topics": [],
-      "updatedAt": "2026-01-06T02:08:35Z",
+      "updatedAt": "2026-01-07T02:08:15Z",
       "createdAt": "2026-01-02T18:02:21Z"
     },
     {
@@ -9678,7 +9694,7 @@
       "isPrivate": false,
       "primaryLanguage": null,
       "topics": [],
-      "updatedAt": "2026-01-05T12:56:50Z",
+      "updatedAt": "2026-01-06T12:51:54Z",
       "createdAt": "2026-01-02T17:27:00Z"
     },
     {
@@ -9749,5 +9765,5 @@
   ],
   "closedIssues": 0,
   "openIssues": 0,
-  "fetchedAt": 1767703775733
+  "fetchedAt": 1767790249780
 }
